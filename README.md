@@ -20,4 +20,5 @@
 | week16 | 2025-05-14 | 배포, github action CI/CD (netlify, github.io), aws serverless, ec2, s3                |
 | week17 | 2025-05-21 | 해커톤 팀회의                                                                          |
 | week18 | 2025-05-28 | 해커톤 팀회의                                                                          |
-*날짜는 확정이 아니며, 변경될 수 있음
+
+ *날짜는 확정이 아니며, 변경될 수 있음
