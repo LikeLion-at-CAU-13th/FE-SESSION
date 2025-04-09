@@ -25,12 +25,5 @@ button {
 }
 
 button:hover {
-  all: unset;
-  margin: 10px 0;
   background-color: wheat;
-  color: rgb(255, 255, 255);
-  font-weight: 700;
-  padding: 5px;
-  cursor: pointer;
-  border-radius: 10px;
 }
